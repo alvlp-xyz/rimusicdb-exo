@@ -1,2 +1,2 @@
 # rimusic-downloaded
-get downloaded music and convert to m4a
+get downloaded music from rimusic database and rename to m4a

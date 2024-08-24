@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "ffmetadata": "^1.7.0",
+    "fs-extra": "^11.2.0",
+    "music-metadata": "^10.2.0",
+    "node-id3": "^0.2.6",
+    "sqlite3": "^5.1.7",
+    "youtube-dl-exec": "^3.0.7",
+    "ytdl-core": "^4.11.5"
+  }
+}
